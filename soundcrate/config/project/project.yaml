@@ -1,0 +1,25 @@
+dateModified: 1716904496
+email:
+  fromEmail: jordy.weltens@student.pxl.be
+  fromName: soundcrate
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    0c5f8ddb-49e9-4ca3-a011-a4a85f48a5ba: home # home
+    3f7bd01f-deae-4000-a1cb-7c03ac16c5c2: soundcrate # soundcrate
+    0423cf5f-c805-48b1-8664-e9bf6885880b: soundcrate # soundcrate
+    3624e9a8-5299-4cd5-9089-957342e7b918: 'Public Schema' # Public Schema
+    ce0f03c4-516d-45cd-a6c9-9bc837b7bfa9: Homepage # Homepage
+system:
+  edition: solo
+  live: true
+  name: soundcrate
+  schemaVersion: 5.0.0.20
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  require2fa: false
+  requireEmailVerification: true

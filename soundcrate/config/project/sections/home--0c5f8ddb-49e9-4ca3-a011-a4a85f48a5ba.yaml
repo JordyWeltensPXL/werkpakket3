@@ -1,0 +1,27 @@
+defaultPlacement: end
+enableVersioning: true
+entryTypes:
+  - ce0f03c4-516d-45cd-a6c9-9bc837b7bfa9 # Homepage
+handle: home
+maxAuthors: 1
+name: home
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
+      -
+        - refresh
+        - '1'
+propagationMethod: all
+siteSettings:
+  0423cf5f-c805-48b1-8664-e9bf6885880b: # soundcrate
+    enabledByDefault: true
+    hasUrls: true
+    template: home/_entry
+    uriFormat: home
+type: single

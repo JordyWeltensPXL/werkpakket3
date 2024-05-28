@@ -1,0 +1,15 @@
+<div class="popular">
+  <div class="popular__section">
+    <p class="popular__section__headline">Most Popular Albums</p>
+    <div class="popular__section__items">
+      {% for album in mostPopularAlbums %}
+        <div class="popular__section__item">
+          <img src="{{ album.coverImage }}" alt="{{ album.title }} cover" class="popular__section__item__image">
+          <p class="popular__section__item__title">{{ album.title }}</p>
+          <p class="popular__section__item__artist">{{ album.artist }}</p>
+        </div>
+      {% endfor %}
+    </div>
+    <a class="popular__section__button" href="{{ siteUrl('products') }}">View all albums</a>
+  </div>
+</div>

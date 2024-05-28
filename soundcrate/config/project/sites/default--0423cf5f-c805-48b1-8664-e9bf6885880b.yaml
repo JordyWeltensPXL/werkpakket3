@@ -1,0 +1,9 @@
+baseUrl: 'http://soundcrate.local.test.be/'
+enabled: true
+handle: default
+hasUrls: true
+language: en-US
+name: soundcrate
+primary: true
+siteGroup: 3f7bd01f-deae-4000-a1cb-7c03ac16c5c2 # soundcrate
+sortOrder: 1
