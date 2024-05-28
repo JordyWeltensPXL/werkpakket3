@@ -1,4 +1,4 @@
-dateModified: 1716904496
+dateModified: 1716913956
 email:
   fromEmail: jordy.weltens@student.pxl.be
   fromName: soundcrate
@@ -6,10 +6,16 @@ email:
 meta:
   __names__:
     0c5f8ddb-49e9-4ca3-a011-a4a85f48a5ba: home # home
+    0d2b2c2c-d0c9-4658-b209-9e136085ee9b: cart # cart
     3f7bd01f-deae-4000-a1cb-7c03ac16c5c2: soundcrate # soundcrate
+    9d3cfae0-ac5a-4a8a-9ab6-27ff5e0cfe7f: footer # footer
+    21b04ba3-255e-499d-b06a-c87d507fd515: popular # popular
     0423cf5f-c805-48b1-8664-e9bf6885880b: soundcrate # soundcrate
     3624e9a8-5299-4cd5-9089-957342e7b918: 'Public Schema' # Public Schema
+    b7cdc49d-8841-4939-8564-ba0f378b9aa3: navigation # navigation
+    bde115d5-01a2-4ed5-9404-cc4eb202bdb3: login # login
     ce0f03c4-516d-45cd-a6c9-9bc837b7bfa9: Homepage # Homepage
+    dd26cbba-3794-4495-b670-cc25ed2c0e64: productsList # productsList
 system:
   edition: solo
   live: true
